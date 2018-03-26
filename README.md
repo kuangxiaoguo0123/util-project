@@ -3,6 +3,7 @@ Common util functions, for example MVP, Retrofit, ScreenUtil and CollectionUtil.
 
 # Start a new project?
 You can use this when you start a new project because it contains almost all the util functions you need to use in your project.
+
 我们在开始一个新项目的时候，肯定会涉及到一些通用工具的使用，比如一些util工具类、图片加载库、网络请求库等。本篇博文就是对这些通用工具类的一些封装，这样可以节省很多开发时间。下面就以Retrofit的封装为例向大家介绍如何使用这些library。
 # Api
 ```
