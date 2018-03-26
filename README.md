@@ -62,7 +62,7 @@ public class Api {
 ```
 # 开始使用
 首先你需要下载一份源码：
-[https://github.com/kuangxiaoguo0123/util-library](https://github.com/kuangxiaoguo0123/util-library)
+[https://github.com/kuangxiaoguo0123/util-project](https://github.com/kuangxiaoguo0123/util-project)
 
 ## 目录结构
 ![](https://github.com/kuangxiaoguo0123/util-project/blob/master/screenshots/catalog.png)
