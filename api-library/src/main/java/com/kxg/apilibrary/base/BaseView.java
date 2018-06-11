@@ -6,6 +6,7 @@ import android.content.Context;
  * Created by kuangxiaoguo on 2018/3/24.
  */
 
+@Deprecated
 public interface BaseView<T> {
 
     Context getMyContext();
